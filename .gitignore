@@ -1,0 +1,17 @@
+
+Apollon/material
+Apollon/init.sh
+Apollon/stochastic/markov/mysys2d
+Apollon/stochastic/master/discrete/data
+Apollon/stochastic/master/discrete/img
+Apollon/stochastic/master/discrete/old
+Apollon/stochastic/master/rtp/data
+Apollon/stochastic/master/rtp/img
+Apollon/stochastic/master/rtp/fails
+
+Apollon/fas/.ipynb_checkpoints
+Apollon/fas/img/.ipynb_checkpoints
+Apollon/fas/mc/.ipynb_checkpoints
+Apollon/fas/mc/mcint0
+Apollon/fas/mc/mcint0.o
+Apollon/fas/img
